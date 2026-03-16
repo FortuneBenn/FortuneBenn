@@ -3,15 +3,24 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FortuneBenn"><img src="https://img.shields.io/badge/GitHub-@FortuneBenn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:Fortuneben69@gmail.com"><img src="https://img.shields.io/badge/Email-Fortuneben69@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/FortuneBenn"><img src="https://img.shields.io/badge/GitHub-%40FortuneBenn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:Fortuneben69@gmail.com"><img src="https://img.shields.io/badge/Email-Fortuneben69@gmail.com-c1121f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/fortune-benn-madonzela-8a217b196/"><img src="https://img.shields.io/badge/LinkedIn-Fortune+Benn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/benn_langa"><img src="https://img.shields.io/badge/X-@benn__langa-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://x.com/benn_langa"><img src="https://img.shields.io/badge/X-%40benn__langa-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FortuneBenn&label=Profile+views&color=FF4040&style=flat-square" alt="Profile views">
 </p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FortuneBenn&theme=radical&border_radius=10&fire=FF4040&dates=FF4040&currStreakNum=FF4040&sideNums=c1121f" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FortuneBenn&show_icons=true&theme=radical&border_radius=10&title_color=FF4040&text_color=e0e0e0&icon_color=FF4040&border_color=c1121f&bg_color=1a1a1a" alt="GitHub Stats" width="48%" />
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortuneBenn&layout=compact&theme=radical&border_radius=10&title_color=FF4040&text_color=e0e0e0&border_color=c1121f&bg_color=1a1a1a" alt="Top Languages" width="60%" />
+</div>
 
 ---
 
@@ -32,104 +41,31 @@ Currently focused on:
 
 ### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Frameworks & Libraries</th>
-    <th>Databases</th>
-    <th>Tools & Platforms</th>
-  </tr>
-  <tr>
-    <td>
-      • Python<br>
-      • PHP<br>
-      • JavaScript<br>
-      • HTML5 / CSS3<br>
-      • SQL
-    </td>
-    <td>
-      • Django<br>
-      • React<br>
-      • CakePHP<br>
-      • REST APIs
-    </td>
-    <td>
-      • PostgreSQL<br>
-      • SQLite<br>
-      • MySQL
-    </td>
-    <td>
-      • Git & GitHub<br>
-      • Jira<br>
-      • Heroku<br>
-      • Cloud Deployment<br>
-      • Bootstrap
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-**Soft Skills:** Project Management • Team Leadership • Agile Methodologies • Problem Solving • Communication • Time Management
+**Soft Skills:** Project Management • Leadership • Communication • Problem Solving • Time Management • Adaptability
 
 ---
 
 ### 🔥 Featured Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Status</th>
-  </tr>
-  
-  <tr>
-    <td><strong>Internship Success</strong></td>
-    <td>Full-cycle internship placement & management platform connecting interns, host companies & coordinators</td>
-    <td>Python, Django, PostgreSQL, JavaScript, Bootstrap</td>
-    <td>
-      <a href="https://internshipsuccess.ac.za" target="_blank">Live Demo</a><br>
-      <small>Repository private</small>
-    </td>
-  </tr>
-  
-  <tr>
-    <td><strong>PromoLink</strong></td>
-    <td>Digital promotion & marketing SaaS (Agency, Promoter, Admin & Public portals)</td>
-    <td>PHP, React, REST APIs, MySQL/PostgreSQL</td>
-    <td>
-      <a href="https://promo-link-94d00e26d0af.herokuapp.com/" target="_blank">Live Demo</a><br>
-      <small>Repository private</small>
-    </td>
-  </tr>
-  
-  <tr>
-    <td><strong>Blacklist360</strong></td>
-    <td>AI-powered non-paying client blacklist & tracking system</td>
-    <td>Python, Django, AI/ML, PostgreSQL</td>
-    <td>Repository private</td>
-  </tr>
-  
-  <tr>
-    <td><strong>Rent360</strong></td>
-    <td>Property rental & tenant management platform</td>
-    <td>Python, Django, PostgreSQL, React</td>
-    <td>Repository private</td>
-  </tr>
-  
-  <tr>
-    <td><strong>Financial Management System</strong></td>
-    <td>Business finance, accounting & reporting platform</td>
-    <td>Python, Django, PostgreSQL, JavaScript</td>
-    <td>Repository private</td>
-  </tr>
-  
-  <tr>
-    <td><strong>University Assets Management System (UMAMS)</strong></td>
-    <td>Asset tracking & lifecycle management system for universities</td>
-    <td>Django, React, PostgreSQL, Git</td>
-    <td>Repository private</td>
-  </tr>
-</table>
+| Project                              | Description                                                                 | Tech Stack                          | Status                              |
+|--------------------------------------|-----------------------------------------------------------------------------|-------------------------------------|-------------------------------------|
+| Internship Success                   | Full-cycle internship placement & management platform                     | Python, Django, PostgreSQL, JS, Bootstrap | <a href="https://internshipsuccess.ac.za">Live Demo</a> (Repo private) |
+| PromoLink                            | Digital promotion & marketing SaaS (Agency, Promoter, Admin, Public portals) | PHP, React, REST APIs, MySQL/PostgreSQL | <a href="https://promo-link-94d00e26d0af.herokuapp.com/">Live Demo</a> (Repo private) |
+| Blacklist360                         | AI-powered non-paying client blacklist & tracking system                   | Python, Django, AI/ML, PostgreSQL   | Repository private                  |
+| Rent360                              | Property rental & tenant management system                                 | Python, Django, PostgreSQL, React   | Repository private                  |
+| Financial Management System          | Business finance, accounting & reporting platform                          | Python, Django, PostgreSQL, JavaScript | Repository private                  |
+| University Assets Management System (UMAMS) | Asset tracking & lifecycle management for universities              | Django, React, PostgreSQL, Git      | Repository private                  |
 
 ---
 
@@ -142,18 +78,17 @@ Currently focused on:
 
 ---
 
-### 📫 Let's Connect
-
-- **Email:** Fortuneben69@gmail.com  
-- **GitHub:** github.com/FortuneBenn  
-- **LinkedIn:** linkedin.com/in/fortune-benn-madonzela-8a217b196  
-- **X (Twitter):** @benn_langa  
-- **Instagram:** @fortune_ben99  
-- **Facebook:** facebook.com/ben.madonzela.5
-
----
+### 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <i>"Clean code, scalable systems, happy teams — that's how I build the future."</i><br><br>
+  <a href="mailto:Fortuneben69@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Fortuneben69@gmail.com-c1121f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/FortuneBenn"><img src="https://img.shields.io/badge/GitHub-FortuneBenn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/fortune-benn-madonzela-8a217b196/"><img src="https://img.shields.io/badge/LinkedIn-Fortune+Benn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/benn_langa"><img src="https://img.shields.io/badge/X-%40benn__langa-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/fortune_ben99/"><img src="https://img.shields.io/badge/Instagram-%40fortune_ben99-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+<p align="center">
+  <i>"Clean code. Scalable systems. Happy teams. Let's build something great together."</i><br><br>
   <img src="https://img.shields.io/badge/Always%20learning-FF4040?style=for-the-badge&logo=code&logoColor=white" alt="Always learning">
 </p>
