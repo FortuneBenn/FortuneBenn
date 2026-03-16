@@ -26,10 +26,8 @@
 
 ### 👨‍💻 About Me
 
-Motivated **Full-Stack Developer** and ICT graduate with 3+ years of hands-on experience building scalable web & mobile applications, AI-powered systems, and multi-tenant platforms.  
+Motivated **Full-Stack Developer** and ICT graduate with 3+ years of hands-on experience building scalable web & mobile applications, AI-powered systems, and multi-tenant ERP platforms.  
 IBM-certified in Full-Stack Development with strong expertise in **Django**, **React**, **PHP**, and modern JavaScript ecosystems.
-
-I love turning complex business problems into clean, maintainable, and production-ready digital solutions — from startup MVPs to enterprise-grade systems.
 
 Currently focused on:
 - Backend architecture & REST/GraphQL APIs
@@ -56,16 +54,22 @@ Currently focused on:
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Featured Projects (Mostly Private Repositories)
+
+All major production-grade projects are in **private repositories** for client/business confidentiality.  
+Public repos are available for smaller experiments / learning projects.
 
 | Project                              | Description                                                                 | Tech Stack                          | Status                              |
 |--------------------------------------|-----------------------------------------------------------------------------|-------------------------------------|-------------------------------------|
-| Internship Success                   | Full-cycle internship placement & management platform                     | Python, Django, PostgreSQL, JS, Bootstrap | <a href="https://internshipsuccess.ac.za">Live Demo</a> (Repo private) |
-| PromoLink                            | Digital promotion & marketing SaaS (Agency, Promoter, Admin, Public portals) | PHP, React, REST APIs, MySQL/PostgreSQL | <a href="https://promo-link-94d00e26d0af.herokuapp.com/">Live Demo</a> (Repo private) |
-| Blacklist360                         | AI-powered non-paying client blacklist & tracking system                   | Python, Django, AI/ML, PostgreSQL   | Repository private                  |
-| Rent360                              | Property rental & tenant management system                                 | Python, Django, PostgreSQL, React   | Repository private                  |
-| Financial Management System          | Business finance, accounting & reporting platform                          | Python, Django, PostgreSQL, JavaScript | Repository private                  |
-| University Assets Management System (UMAMS) | Asset tracking & lifecycle management for universities              | Django, React, PostgreSQL, Git      | Repository private                  |
+| Internship Success                   | Full-cycle internship placement & management platform                     | Python, Django, PostgreSQL, JavaScript, Bootstrap | <a href="https://internshipsuccess.ac.za" target="_blank">🌐 Live Demo</a> (Repo private) |
+| PromoLink                            | Digital promotion & marketing SaaS (Agency, Promoter, Admin, Public portals) | PHP, React, REST APIs, MySQL/PostgreSQL | <a href="https://promo-link-94d00e26d0af.herokuapp.com/" target="_blank">🌐 Live Demo</a> (Repo private) |
+| Blacklist360                         | AI-powered non-paying client blacklist & tracking system                   | Python, Django, AI/ML, PostgreSQL   | 🔒 Private repository               |
+| Rent360                              | Property rental & tenant management system                                 | Python, Django, PostgreSQL, React   | 🔒 Private repository               |
+| Financial Management System          | Business finance, accounting & reporting platform                          | Python, Django, PostgreSQL, JavaScript | 🔒 Private repository               |
+| University Assets Management System (UMAMS) | Asset tracking & lifecycle management for universities              | Django, React, PostgreSQL, Git      | 🔒 Private repository               |
+
+> Most production projects are private due to client agreements and business IP protection.  
+> If you're a recruiter or potential collaborator, feel free to reach out via email or LinkedIn — I’m happy to share more details, demos, or private repo access under NDA.
 
 ---
 
